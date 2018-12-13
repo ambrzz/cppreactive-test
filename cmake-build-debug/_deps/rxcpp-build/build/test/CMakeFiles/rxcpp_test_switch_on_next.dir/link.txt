@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/rxcpp_test_switch_on_next.dir/operators/switch_on_next.cpp.o  -o rxcpp_test_switch_on_next -lpthread 

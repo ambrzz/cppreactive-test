@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/rxcpp_test_subject.dir/subjects/subject.cpp.o  -o rxcpp_test_subject -lpthread 

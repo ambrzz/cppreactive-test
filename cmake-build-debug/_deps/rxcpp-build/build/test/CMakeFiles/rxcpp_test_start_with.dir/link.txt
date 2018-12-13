@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/rxcpp_test_start_with.dir/operators/start_with.cpp.o  -o rxcpp_test_start_with -lpthread 

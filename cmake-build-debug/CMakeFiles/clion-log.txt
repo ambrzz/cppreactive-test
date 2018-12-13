@@ -1,0 +1,36 @@
+/opt/clion-2018.2.6/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/david-montoro/CLionProjects/cppreactive
+-- Populating build dependency: rxcpp
+-- RXCPP_DIR: /home/david-montoro/CLionProjects/cppreactive/cmake-build-debug/_deps/rxcpp-src
+-- RXCPP_DIR: /home/david-montoro/CLionProjects/cppreactive/cmake-build-debug/_deps/rxcpp-src
+-- CMAKE_CXX_COMPILER_ID: GNU
+-- gnu compiler version: 7.3.0
+-- using gnu settings
+-- RXCPP_DIR: /home/david-montoro/CLionProjects/cppreactive/cmake-build-debug/_deps/rxcpp-src
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- RXCPP_DIR: /home/david-montoro/CLionProjects/cppreactive/cmake-build-debug/_deps/rxcpp-src
+-- CMAKE_CXX_COMPILER_ID: GNU
+-- gnu compiler version: 7.3.0
+-- using gnu settings
+-- RXCPP_DIR: /home/david-montoro/CLionProjects/cppreactive/cmake-build-debug/_deps/rxcpp-src
+-- CMAKE_CXX_COMPILER_ID: GNU
+-- gnu compiler version: 7.3.0
+-- using gnu settings
+-- RXCPP_DIR: /home/david-montoro/CLionProjects/cppreactive/cmake-build-debug/_deps/rxcpp-src
+-- CMAKE_CXX_COMPILER_ID: GNU
+-- gnu compiler version: 7.3.0
+-- using gnu settings
+-- RXCPP_DIR: /home/david-montoro/CLionProjects/cppreactive/cmake-build-debug/_deps/rxcpp-src
+-- CMAKE_CXX_COMPILER_ID: GNU
+-- gnu compiler version: 7.3.0
+-- using gnu settings
+-- RXCPP_DIR: /home/david-montoro/CLionProjects/cppreactive/cmake-build-debug/_deps/rxcpp-src
+-- CMAKE_CXX_COMPILER_ID: GNU
+-- gnu compiler version: 7.3.0
+-- using gnu settings
+-- RXCPP_DIR: /home/david-montoro/CLionProjects/cppreactive/cmake-build-debug/_deps/rxcpp-src
+-- CMAKE_CXX_COMPILER_ID: GNU
+-- gnu compiler version: 7.3.0
+-- using gnu settings
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/david-montoro/CLionProjects/cppreactive/cmake-build-debug

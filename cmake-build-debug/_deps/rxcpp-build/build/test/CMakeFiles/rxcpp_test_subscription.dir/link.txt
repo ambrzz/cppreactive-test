@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/rxcpp_test_subscription.dir/subscriptions/subscription.cpp.o  -o rxcpp_test_subscription -lpthread 

@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="cppreactive" targetName="tests" />
+      <config projectName="cppreactive" targetName="rxcpp_test_pairwise" />
+      <config projectName="cppreactive" targetName="rxcpp_test_skip_until" />
+      <config projectName="cppreactive" targetName="rxcpp_test_observe_on" />
+      <config projectName="cppreactive" targetName="rxcpp_test_sample" />
+      <config projectName="cppreactive" targetName="rxcpp_test_window" />
+      <config projectName="cppreactive" targetName="rxcpp_test_buffer" />
+      <config projectName="cppreactive" targetName="rxcpp_test_concat" />
+      <config projectName="cppreactive" targetName="rxcpp_test_subscription" />
+      <config projectName="cppreactive" targetName="linesfrombytes" />
+      <config projectName="cppreactive" targetName="rxcpp_test_observer" />
+      <config projectName="cppreactive" targetName="rxcpp_test_amb_variadic" />
+      <config projectName="cppreactive" targetName="rxcpp_test_take_until" />
+      <config projectName="cppreactive" targetName="rxcpp_test_any" />
+      <config projectName="cppreactive" targetName="rxcpp_test_distinct_until_changed" />
+      <config projectName="cppreactive" targetName="rxcpp_test_finally" />
+      <config projectName="cppreactive" targetName="rxcpp_test_sequence_equal" />
+      <config projectName="cppreactive" targetName="rxcpp_test_repeat" />
+      <config projectName="cppreactive" targetName="rxcppv2_test" />
+      <config projectName="cppreactive" targetName="rxcpp_test_debounce" />
+      <config projectName="cppreactive" targetName="rxcpp_test_delay" />
+      <config projectName="cppreactive" targetName="rxcpp_test_tap" />
+      <config projectName="cppreactive" targetName="rxcpp_test_flat_map" />
+      <config projectName="cppreactive" targetName="rxcpp_test_take" />
+      <config projectName="cppreactive" targetName="rxcpp_test_lift" />
+      <config projectName="cppreactive" targetName="rxcpp_test_all" />
+      <config projectName="cppreactive" targetName="rxcpp_test_zip" />
+      <config projectName="cppreactive" targetName="pythagorian" />
+      <config projectName="cppreactive" targetName="rxcpp_test_skip" />
+      <config projectName="cppreactive" targetName="rxcpp_test_defer" />
+      <config projectName="cppreactive" targetName="rxcpp_test_empty" />
+      <config projectName="cppreactive" targetName="rxcpp_test_scan" />
+      <config projectName="cppreactive" targetName="rxcpp_test_take_last" />
+      <config projectName="cppreactive" targetName="rxcpp_test_take_while" />
+      <config projectName="cppreactive" targetName="rxcpp_test_ignore_elements" />
+      <config projectName="cppreactive" targetName="rxcpp_test_time_interval" />
+      <config projectName="cppreactive" targetName="rxcpp_test_skip_last" />
+      <config projectName="cppreactive" targetName="rxcpp_test_is_empty" />
+      <config projectName="cppreactive" targetName="rxcpp_test_replay" />
+      <config projectName="cppreactive" targetName="cppreactive" />
+      <config projectName="cppreactive" targetName="rxcpp_test_retry" />
+      <config projectName="cppreactive" targetName="rxcpp_test_skip_while" />
+      <config projectName="cppreactive" targetName="rxcpp_test_create" />
+      <config projectName="cppreactive" targetName="rxcpp_test_reduce" />
+      <config projectName="cppreactive" targetName="cep" />
+      <config projectName="cppreactive" targetName="rxcpp_test_switch_if_empty" />
+      <config projectName="cppreactive" targetName="rxcpp_test_subject" />
+      <config projectName="cppreactive" targetName="rxcpp_test_combine_latest" />
+      <config projectName="cppreactive" targetName="stop" />
+      <config projectName="cppreactive" targetName="rxcpp_test_subscribe_on" />
+      <config projectName="cppreactive" targetName="rxcpp_test_amb" />
+      <config projectName="cppreactive" targetName="rxcpp_test_coroutine" />
+      <config projectName="cppreactive" targetName="rxcpp_test_distinct" />
+      <config projectName="cppreactive" targetName="rxcpp_test_contains" />
+      <config projectName="cppreactive" targetName="rxcpp_test_map" />
+      <config projectName="cppreactive" targetName="println" />
+      <config projectName="cppreactive" targetName="rxcpp_test_switch_on_next" />
+      <config projectName="cppreactive" targetName="rxcpp_test_group_by" />
+      <config projectName="cppreactive" targetName="rxcpp_test_start_with" />
+      <config projectName="cppreactive" targetName="rxcpp_test_timeout" />
+      <config projectName="cppreactive" targetName="rxcpp_test_timestamp" />
+      <config projectName="cppreactive" targetName="rxcpp_test_merge" />
+      <config projectName="cppreactive" targetName="rxcpp_test_on_error_resume_next" />
+      <config projectName="cppreactive" targetName="rxcpp_test_concat_map" />
+      <config projectName="cppreactive" targetName="rxcpp_test_with_latest_from" />
+      <config projectName="cppreactive" targetName="RxCpp" />
+      <config projectName="cppreactive" targetName="rxcpp_test_publish" />
+      <config projectName="cppreactive" targetName="rxcpp_test_window_toggle" />
+      <config projectName="cppreactive" targetName="rxcpp_test_filter" />
+      <config projectName="cppreactive" targetName="rxcpp_test_interval" />
+      <config projectName="cppreactive" targetName="rxcpp_test_merge_delay_error" />
+      <config projectName="cppreactive" targetName="rxcpp_test_element_at" />
+      <config projectName="cppreactive" targetName="rxcpp_test_default_if_empty" />
+      <config projectName="cppreactive" targetName="rxcpp_test_exists" />
+      <config projectName="cppreactive" targetName="rxcpp_test_scope" />
+      <config projectName="cppreactive" targetName="rxcpp_test_timer" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d93d3001-7dcc-43bb-83de-ae14c2b2555d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1076654717">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cmake" value="3" />
+          <entry key="cpp" value="1" />
+          <entry key="txt" value="113" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="116" />
+          <entry key="ObjectiveC" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="1" />
+          <entry key="cbp" value="1" />
+          <entry key="cmake" value="4" />
+          <entry key="log" value="1" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="4" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RxCpp.cmake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake/RxCpp.cmake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cmake-build-debug/_deps/rxcpp-src" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/cmake/RxCpp.cmake" />
+        <option value="$PROJECT_DIR$/RxCpp.cmake" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="y" value="124" />
+    <option name="width" value="1910" />
+    <option name="height" value="879" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cppreactive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cppreactive" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.cppreactive">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RxCpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="RxCpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cep" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="cep" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="cep">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cppreactive" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="cppreactive" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="cppreactive">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linesfrombytes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="linesfrombytes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="linesfrombytes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="println" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="println" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="println">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pythagorian" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="pythagorian" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="pythagorian">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_all" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_all" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_amb" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_amb" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_amb">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_amb_variadic" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_amb_variadic" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_amb_variadic">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_any" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_any" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_any">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_buffer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_buffer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_buffer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_combine_latest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_combine_latest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_combine_latest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_concat" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_concat" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_concat">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_concat_map" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_concat_map" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_concat_map">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_contains" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_contains" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_contains">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_coroutine" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_coroutine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_coroutine">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_create" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_create" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_create">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_debounce" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_debounce" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_debounce">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_default_if_empty" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_default_if_empty" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_default_if_empty">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_defer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_defer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_defer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_delay" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_delay" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_delay">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_distinct" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_distinct" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_distinct">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_distinct_until_changed" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_distinct_until_changed" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_distinct_until_changed">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_element_at" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_element_at" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_element_at">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_empty" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_empty" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_empty">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_exists" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_exists" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_exists">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_filter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_filter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_filter">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_finally" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_finally" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_finally">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_flat_map" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_flat_map" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_flat_map">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_group_by" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_group_by" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_group_by">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_ignore_elements" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_ignore_elements" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_ignore_elements">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_interval" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_interval" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_interval">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_is_empty" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_is_empty" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_is_empty">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_lift" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_lift" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_lift">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_map" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_map" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_map">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_merge" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_merge" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_merge">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_merge_delay_error" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_merge_delay_error" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_merge_delay_error">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_observe_on" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_observe_on" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_observe_on">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_observer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_observer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_observer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_on_error_resume_next" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_on_error_resume_next" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_on_error_resume_next">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_pairwise" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_pairwise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_pairwise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_publish" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_publish" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_publish">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_reduce" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_reduce" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_reduce">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_repeat" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_repeat" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_repeat">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_replay" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_replay" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_replay">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_retry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_retry" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_retry">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_sample" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_sample" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_sample">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_scan" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_scan" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_scan">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_scope" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_scope" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_scope">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_sequence_equal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_sequence_equal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_sequence_equal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_skip" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_skip" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_skip">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_skip_last" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_skip_last" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_skip_last">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_skip_until" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_skip_until" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_skip_until">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_skip_while" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_skip_while" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_skip_while">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_start_with" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_start_with" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_start_with">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_subject" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_subject" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_subject">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_subscribe_on" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_subscribe_on" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_subscribe_on">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_subscription" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_subscription" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_subscription">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_switch_if_empty" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_switch_if_empty" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_switch_if_empty">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_switch_on_next" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_switch_on_next" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_switch_on_next">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_take" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_take" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_take">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_take_last" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_take_last" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_take_last">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_take_until" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_take_until" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_take_until">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_take_while" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_take_while" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_take_while">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_tap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_tap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_tap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_time_interval" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_time_interval" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_time_interval">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_timeout" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_timeout" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_timeout">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_timer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_timer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_timer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_timestamp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_timestamp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_timestamp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_window" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_window" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_window">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_window_toggle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_window_toggle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_window_toggle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_with_latest_from" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_with_latest_from" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_with_latest_from">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcpp_test_zip" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcpp_test_zip" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcpp_test_zip">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rxcppv2_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="rxcppv2_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="rxcppv2_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stop" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="stop" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="stop">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppreactive" TARGET_NAME="tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppreactive" RUN_TARGET_NAME="tests">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.cppreactive" />
+      <item itemvalue="Application.RxCpp" />
+      <item itemvalue="Application.cep" />
+      <item itemvalue="Application.linesfrombytes" />
+      <item itemvalue="Application.println" />
+      <item itemvalue="Application.pythagorian" />
+      <item itemvalue="Application.stop" />
+      <item itemvalue="Application.tests" />
+      <item itemvalue="Application.rxcpp_test_all" />
+      <item itemvalue="Application.rxcpp_test_amb" />
+      <item itemvalue="Application.rxcpp_test_amb_variadic" />
+      <item itemvalue="Application.rxcpp_test_any" />
+      <item itemvalue="Application.rxcpp_test_buffer" />
+      <item itemvalue="Application.rxcpp_test_combine_latest" />
+      <item itemvalue="Application.rxcpp_test_concat" />
+      <item itemvalue="Application.rxcpp_test_concat_map" />
+      <item itemvalue="Application.rxcpp_test_contains" />
+      <item itemvalue="Application.rxcpp_test_coroutine" />
+      <item itemvalue="Application.rxcpp_test_create" />
+      <item itemvalue="Application.rxcpp_test_debounce" />
+      <item itemvalue="Application.rxcpp_test_default_if_empty" />
+      <item itemvalue="Application.rxcpp_test_defer" />
+      <item itemvalue="Application.rxcpp_test_delay" />
+      <item itemvalue="Application.rxcpp_test_distinct" />
+      <item itemvalue="Application.rxcpp_test_distinct_until_changed" />
+      <item itemvalue="Application.rxcpp_test_element_at" />
+      <item itemvalue="Application.rxcpp_test_empty" />
+      <item itemvalue="Application.rxcpp_test_exists" />
+      <item itemvalue="Application.rxcpp_test_filter" />
+      <item itemvalue="Application.rxcpp_test_finally" />
+      <item itemvalue="Application.rxcpp_test_flat_map" />
+      <item itemvalue="Application.rxcpp_test_group_by" />
+      <item itemvalue="Application.rxcpp_test_ignore_elements" />
+      <item itemvalue="Application.rxcpp_test_interval" />
+      <item itemvalue="Application.rxcpp_test_is_empty" />
+      <item itemvalue="Application.rxcpp_test_lift" />
+      <item itemvalue="Application.rxcpp_test_map" />
+      <item itemvalue="Application.rxcpp_test_merge" />
+      <item itemvalue="Application.rxcpp_test_merge_delay_error" />
+      <item itemvalue="Application.rxcpp_test_observe_on" />
+      <item itemvalue="Application.rxcpp_test_observer" />
+      <item itemvalue="Application.rxcpp_test_on_error_resume_next" />
+      <item itemvalue="Application.rxcpp_test_pairwise" />
+      <item itemvalue="Application.rxcpp_test_publish" />
+      <item itemvalue="Application.rxcpp_test_reduce" />
+      <item itemvalue="Application.rxcpp_test_repeat" />
+      <item itemvalue="Application.rxcpp_test_replay" />
+      <item itemvalue="Application.rxcpp_test_retry" />
+      <item itemvalue="Application.rxcpp_test_sample" />
+      <item itemvalue="Application.rxcpp_test_scan" />
+      <item itemvalue="Application.rxcpp_test_scope" />
+      <item itemvalue="Application.rxcpp_test_sequence_equal" />
+      <item itemvalue="Application.rxcpp_test_skip" />
+      <item itemvalue="Application.rxcpp_test_skip_last" />
+      <item itemvalue="Application.rxcpp_test_skip_until" />
+      <item itemvalue="Application.rxcpp_test_skip_while" />
+      <item itemvalue="Application.rxcpp_test_start_with" />
+      <item itemvalue="Application.rxcpp_test_subject" />
+      <item itemvalue="Application.rxcpp_test_subscribe_on" />
+      <item itemvalue="Application.rxcpp_test_subscription" />
+      <item itemvalue="Application.rxcpp_test_switch_if_empty" />
+      <item itemvalue="Application.rxcpp_test_switch_on_next" />
+      <item itemvalue="Application.rxcpp_test_take" />
+      <item itemvalue="Application.rxcpp_test_take_last" />
+      <item itemvalue="Application.rxcpp_test_take_until" />
+      <item itemvalue="Application.rxcpp_test_take_while" />
+      <item itemvalue="Application.rxcpp_test_tap" />
+      <item itemvalue="Application.rxcpp_test_time_interval" />
+      <item itemvalue="Application.rxcpp_test_timeout" />
+      <item itemvalue="Application.rxcpp_test_timer" />
+      <item itemvalue="Application.rxcpp_test_timestamp" />
+      <item itemvalue="Application.rxcpp_test_window" />
+      <item itemvalue="Application.rxcpp_test_window_toggle" />
+      <item itemvalue="Application.rxcpp_test_with_latest_from" />
+      <item itemvalue="Application.rxcpp_test_zip" />
+      <item itemvalue="Application.rxcppv2_test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d93d3001-7dcc-43bb-83de-ae14c2b2555d" name="Default Changelist" comment="" />
+      <created>1544698176732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544698176732</updated>
+      <workItem from="1544698178253" duration="3592000" />
+      <workItem from="1544702031723" duration="12000" />
+      <workItem from="1544702065352" duration="4943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8547000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="124" width="1910" height="879" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25643778" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4580559" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3291866" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4994664" weight="0.3291866" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010672" side_tool="true" weight="0.33779904" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" sideWeight="0.49893278" weight="0.33779904" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/RxCpp" />
+      <path value="$PROJECT_DIR$/cmake-build-debug/_deps/rxcpp-src" />
+      <path value="$PROJECT_DIR$/cmake-build-debug/_deps/rxcpp-src/ext/catch" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cppreactive.cbp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RxCpp/DeveloperManual.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake/RxCpp.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RxCpp.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

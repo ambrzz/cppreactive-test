@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/rxcpp_test_reduce.dir/operators/reduce.cpp.o  -o rxcpp_test_reduce -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/println.dir/main.cpp.o  -o println -lpthread 
